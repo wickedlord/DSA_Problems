@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../WebD Practice"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"vector": "cpp",
+			"unordered_map": "cpp"
+		}
+	}
+}

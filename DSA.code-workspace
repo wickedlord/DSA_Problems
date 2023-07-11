@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../WebD Practice"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"vector": "cpp",
+			"new": "cpp",
+			"string": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "WebD Practice"
+	}
+}
